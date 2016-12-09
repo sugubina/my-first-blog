@@ -8,7 +8,7 @@
             	{% if post.photo %}
 		            <img src="{{ post.photo }}">
 		        {% else %}
-		        <img src="static/img/girl.jpg">
+		        <img src="static/girl.jpg">
 	        {% endif %}
             </div>
             <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
