@@ -1,5 +1,19 @@
 body {
-	background: pink;
+	background: #e5a21d;
+	background-size: contain;
 	padding: 0 10%;
 }
 
+a {
+	color: #333;
+}
+
+a:hover {
+	color: black;
+
+}
+
+img {
+	display: block;
+	max-width: 20%;
+}
