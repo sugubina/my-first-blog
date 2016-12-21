@@ -3,6 +3,6 @@
 __pycache__
 kvenv
 db.sqlite3
-/static
+.idea
 .DS_Store
-/media
+media
