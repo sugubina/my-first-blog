@@ -1,7 +1,6 @@
 body {
 	background: #e5a21d;
 	background-size: contain;
-	padding: 0 10%;
 }
 
 a {
@@ -16,4 +15,8 @@ a:hover {
 img {
 	display: block;
 	max-width: 20%;
+}
+
+.delete {
+	text-align: center;
 }
